@@ -4,7 +4,8 @@
       <div class="container">
         <div class="navbar-brand">
           <nuxt-link class="navbar-item" to="/">
-            <img src="/bulma.png" alt="Logo" />
+            <img  class="mr-2" src="/dev.png" alt="Logo" />
+            TopFusion Blog
           </nuxt-link>
           <span class="navbar-burger burger" v-on:click="toggleNavbar">
             <span></span>
